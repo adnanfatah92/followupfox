@@ -1,3 +1,5 @@
+// homepage
+
 export default function Home() {
   return (
     <main
@@ -39,9 +41,10 @@ export default function Home() {
           <h1 style={{ fontSize: 42, marginBottom: 12 }}>
             Never lose a lead again.
           </h1>
+
           <p style={{ fontSize: 18, color: "rgba(238,238,255,0.75)" }}>
-            FollowUpFox automatically sends polite follow-up emails to people who
-            already contacted your business.
+            FollowUpFox automatically sends polite follow-up emails to people
+            who already contacted your business.
           </p>
 
           <div style={{ marginTop: 20, display: "flex", gap: 12 }}>
